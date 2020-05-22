@@ -1,6 +1,6 @@
 # Steam Auto Spring Cleaning
 
-This script can help you finish Steam [Spring Cleaning Event (2020)](https://store.steampowered.com/springcleaning) automatically.
+This script can help you finish Steam [Spring Cleaning Event (2020)](https://store.steampowered.com/springcleaning) automatically without install game.
 
 # Installation
 
