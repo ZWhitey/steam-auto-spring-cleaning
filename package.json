@@ -1,0 +1,24 @@
+{
+  "name": "steam-auto-spring-cleaning",
+  "version": "1.0.0",
+  "description": "Steam spring cleaning bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auto",
+    "Bot",
+    "Steam",
+    "Spring cleaning"
+  ],
+  "author": "Whitey",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "prompt-sync": "^4.2.0",
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.15.4",
+    "steamcommunity": "^3.41.3"
+  }
+}
